@@ -34,3 +34,6 @@ if (array.length % 2 === 1) {
   };
 return result;
 }
+
+
+module.exports = middle;
