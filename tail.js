@@ -13,7 +13,5 @@ const tail = function(array) {
 
 };
 
-// Test Case: Check the original array
-const words = [];
-tail(words);
-assertEqual(words.length, 3);
+module.exports = tail;
+
